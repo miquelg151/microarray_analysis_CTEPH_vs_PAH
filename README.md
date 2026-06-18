@@ -158,9 +158,9 @@ upon request.
 
 ## Contact
 
-1) Olga Tura-Ceide - olgaturac@gmail.com (correspondance author and PI)
-1) Míriam Peracaula Domínguez - mperacaula@idibgi.org (1st author)
-1,2) Miquel Gratacós i Aurich — mgratacos@idibgi.org (bionformatitian)
+Olga Tura-Ceide - olgaturac@gmail.com (correspondance author and PI)
+Míriam Peracaula Domínguez - mperacaula@idibgi.org (1st author)
+Miquel Gratacós i Aurich — mgratacos@idibgi.org (bionformatitian)
 
-1) Translational Research on Cardiovascular Respiratory Diseases (CAREs), IDIBGI
-2) Grup de Recerca en Estadística i Anàlisi de Dades Composicionals (GR-EADC), UdG
+Translational Research on Cardiovascular Respiratory Diseases (CAREs), IDIBGI
+Grup de Recerca en Estadística i Anàlisi de Dades Composicionals (GR-EADC), UdG
