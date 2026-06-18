@@ -117,6 +117,9 @@ information and are not publicly available due to ethical and privacy restrictio
 upon reasonable request, subject to ethical review and data sharing agreement.
 Please contact olgaturac@gmail.com or mperacaula@igibgi.org
 
+Also, Microarray data and metadata can be downloaded in the following repository: EGAID pending to be uploaded, due to
+it's a manuscript under revisión.
+
 To reproduce the correlation analysis, place the input files in `01_data/correlations/`:
 
 | File | Description |
