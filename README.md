@@ -161,7 +161,7 @@ upon request.
 
 ## Contact
 
-Olga Tura-Ceide - olgaturac@gmail.com (correspondance author and PI)
+Olga Tura-Ceide - olgaturac@idibgi.com (correspondance author and PI)
 Míriam Peracaula Domínguez - mperacaula@idibgi.org (1st author)
 Miquel Gratacós i Aurich — mgratacos@idibgi.org (bionformatitian)
 
